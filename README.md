@@ -1,2 +1,2 @@
 # sample
-a sample test run
+a sample run
